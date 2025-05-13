@@ -1,0 +1,17 @@
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+.env
+*.env
+
+# Docker
+*.log
+docker-compose.override.yml
